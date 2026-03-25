@@ -3,7 +3,7 @@
 
 [Brief Introduction]
 
-I am a Computer Science graduate Comtia security+ certified with a strong focus on cybersecurity. I build hands-on labs, explore SOC operations, and continuously develop practical skills in threat detection, analysis, and defense.
+I am a Computer Science graduate and Comptia security+ certified with a strong focus on cybersecurity. I build hands-on labs, explore SOC operations, and continuously develop practical skills in threat detection, analysis, and defense.
 
 ## Objective
 [Provide Objective]
