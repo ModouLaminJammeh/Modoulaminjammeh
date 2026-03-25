@@ -15,7 +15,7 @@ My goal is to turn what I’ve learned in theory into real, practical cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ModouLaminJammeh/soc-lab/tree/main">Soc Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,5 +54,5 @@ My goal is to turn what I’ve learned in theory into real, practical cybersecur
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/ModouLaminJammeh/soc-lab/tree/main">Soc Lab</a>
 - SOC Automation Project
