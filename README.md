@@ -54,5 +54,5 @@ My goal is to turn what I’ve learned in theory into real, practical cybersecur
 </div>
 
 ## Projects
-- <a href="https://github.com/ModouLaminJammeh/soc-lab/tree/main">Soc Lab</a>
+- <a href="https://github.com/ModouLaminJammeh/Azure-Honeypot-SOC-Lab">Azure Honeypot SOC Lab</a>
 - SOC Automation Project
