@@ -6,21 +6,19 @@
 I am a Computer Science graduate and Comptia security+ certified with a strong focus on cybersecurity. I build hands-on labs, explore SOC operations, and continuously develop practical skills in threat detection, analysis, and defense.
 
 ## Objective
-[Provide Objective]
 
 My goal is to turn what I’ve learned in theory into real, practical cybersecurity skills by working on hands-on projects and lab setups. I’m focused on improving in areas like defensive security, analysis, and system monitoring, while also keeping track of what I learn along the way.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ModouLaminJammeh/soc-lab/tree/main">Soc Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | 
+|-----------------------------------------------|
+| SIEM Implementation and Log Analysis          | 
+| Network Traffic Monitoring and Attack Detection |
+| Security Automation with Shuffle SOAR         |
+| Incident Response Planning and Execution      | 
+| Case Management with TheHive                  | 
+| Scripting and Automation for Threat Mitigation | 
 
 ## Tools
 
@@ -55,4 +53,4 @@ My goal is to turn what I’ve learned in theory into real, practical cybersecur
 
 ## Projects
 - <a href="https://github.com/ModouLaminJammeh/Azure-Honeypot-SOC-Lab">Azure Honeypot SOC Lab</a>
-- SOC Automation Project
+
